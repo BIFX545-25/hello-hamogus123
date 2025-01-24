@@ -1,0 +1,12 @@
+Package: hello
+Title: Hello World
+Version: 1.0
+Authors@R: 
+    person("Hamere", "Mogus", email="ham14@hood.edu", role = c("aut", "cre"))
+Description: The hello.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+
+
